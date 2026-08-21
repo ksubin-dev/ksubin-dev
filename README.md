@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-사용 과정에서 발견한 문제를 수치와 테스트로 검증하며 개선하는 Android 개발자입니다.  
-Kotlin과 Jetpack Compose를 기반으로 사용자 흐름과 안정성을 고려한 앱을 개발합니다.
+사용 과정에서 발견한 문제를 수치와 테스트로 검증하며 개선하는 개발자입니다.  
+사용자 흐름과 안정성을 고려한 개발을 합니다.
 
 ## Featured Projects
 
