@@ -1,4 +1,4 @@
-# 김수빈 | Android Developer
+# 김수빈
 
 <p>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
